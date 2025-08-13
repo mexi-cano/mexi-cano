@@ -16,22 +16,6 @@ My toolbox includes a variety of technologies across the stack. I'm always eager
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Tools & DevOps:** Git, Docker, Cypress, Selenium, Vercel
 
-### 🌱 Current Focus
-
-I am currently deepening my skills in **Data Visualization**, exploring libraries like D3.js and Plotly to better communicate complex data stories.
-
-### 🚀 Featured Projects
-
-<details>
-  <summary><strong>Project A: HealthData Dashboard</strong> - A web app for visualizing patient data securely.</summary>
-  <br />
-  This application helps clinicians track patient metrics over time using an intuitive and responsive interface. Built with a React frontend and a secure Django REST framework backend.
-  <br />
-  <em><strong>(Tech: React, D3.js, Django, PostgreSQL, Docker)</strong></em>
-  <br />
-  <a href="#">View Live Demo</a> • <a href="#">View Repo</a>
-</details>
-
 <details>
   <summary><strong>Project B: MedRecord API</strong> - A microservice for managing electronic health records.</summary>
   <br />
