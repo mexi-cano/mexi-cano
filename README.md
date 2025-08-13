@@ -16,16 +16,6 @@ My toolbox includes a variety of technologies across the stack. I'm always eager
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Tools & DevOps:** Git, Docker, Cypress, Selenium, Vercel
 
-<details>
-  <summary><strong>Project B: MedRecord API</strong> - A microservice for managing electronic health records.</summary>
-  <br />
-  A RESTful API that provides secure CRUD operations for patient records, with a focus on data integrity and compliance.
-  <br />
-  <em><strong>(Tech: Node.js, Express, MongoDB, TypeScript, JWT)</strong></em>
-  <br />
-  <a href="#">View Repo</a>
-</details>
-
 <br />
 
 ### 📊 GitHub Stats & Trophies
